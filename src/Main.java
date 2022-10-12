@@ -4,7 +4,7 @@ public class Main {
 
         int price = 4000;
         int onemiles = 20;
-         int bonus = ( price/ onemiles);
+        int bonus = (price / onemiles);
         System.out.println(bonus);
     }
 }
